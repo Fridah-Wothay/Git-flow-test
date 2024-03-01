@@ -1,0 +1,23 @@
+.hike{
+   display: flex;
+   flex: content;
+   justify-content: space-between;
+   
+}
+body{
+   background-color: rgb(32, 32, 46);
+}
+.image{
+   display: flex;
+   flex: content;
+   justify-content: space-evenly;
+}
+.Pick{ 
+   color: white;
+   text-align: left;
+   justify-content: space-around;
+
+}#Place{
+   width: 600px;
+   height: 800px;
+}
